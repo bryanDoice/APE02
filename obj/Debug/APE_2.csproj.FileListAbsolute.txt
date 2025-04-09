@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\APE2\bin\Debug\APE2.exe.config
+C:\Users\Asus\source\repos\APE2\bin\Debug\APE2.exe
+C:\Users\Asus\source\repos\APE2\bin\Debug\APE2.pdb
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE_2.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE2.CALCULARMATRIZ.resources
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE1.Caratula.resources
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE2.Properties.Resources.resources
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE2.Soporte.resources
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE_2.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE_2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE2.exe
+C:\Users\Asus\source\repos\APE2\obj\Debug\APE2.pdb
